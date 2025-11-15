@@ -13,6 +13,9 @@ blah blah
 
 ## White/wheat loaf
 
+## Should not appear
+{:.no_toc}
+
 ## Focaccia
 
 ## Ciabatta
