@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
       - uses: actions/setup-go@v5
       - name: Install gojekyll
-        run: go install github.com/osteele/gojekyll@6d9e14cec2a1f14760611573c7160b78adb70fa3
+        run: go install github.com/osteele/gojekyll@f7b210ee73da95b5831afd8c273f0e192bfd8619
       - name: Build site
         run: gojekyll build
       - name: Upload artifact
